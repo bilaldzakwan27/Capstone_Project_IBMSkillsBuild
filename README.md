@@ -39,15 +39,15 @@ Dalam proyek ini, model AI Generatif **IBM Granite** (`ibm-granite/granite-3.3-8
 
 1.  **Automated Summarization**
     * **Bagaimana** AI diberi *prompt* yang berisi nama-nama kolom dari dataset.
-    * **Mengapa** Ini digunakan untuk mendapatkan ringkasan eksekutif tentang tujuan utama dataset dan potensi wawasan yang bisa digali. Hal ini mempercepat pemahaman awal tanpa perlu analisis manual yang mendalam.
+    * **mengapa?** karena untuk mendapatkan ringkasan eksekutif tentang tujuan utama dataset dan potensi wawasan yang bisa digali. Hal ini mempercepat pemahaman awal tanpa perlu analisis manual yang mendalam.
 
 2.  **Insight Generation**
     * **Bagaimana** AI diberi *prompt* yang menjelaskan temuan dari grafik visualisasi, yaitu bahwa grup 'Client Engagement' menerima dana tertinggi.
-    * **Mengapa** Ini membantu menerjemahkan data visual menjadi wawasan bisnis. AI bertindak sebagai "analis strategis" untuk memberikan tiga kemungkinan alasan di balik konsentrasi pendanaan tersebut beserta satu potensi risikonya.
+    * **Mengapa?** karena untuk membantu menerjemahkan data visual menjadi wawasan bisnis. AI bertindak sebagai "analis strategis" untuk memberikan tiga kemungkinan alasan di balik konsentrasi pendanaan tersebut beserta satu potensi risikonya.
 
 3.  **Recommendation Generation**
     * **Bagaimana** AI diberi *prompt* yang merangkum semua temuan utama dari analisis (skor model yang tinggi dan konsentrasi dana pada 'Client Engagement').
-    * **Mengapa** Ini adalah langkah akhir untuk memenuhi output proyek. AI diminta untuk bertindak sebagai "konsultan" dan menghasilkan tiga rekomendasi yang konkret dan bisa ditindaklanjuti (*actionable*) untuk tim manajemen strategis Bank Dunia.
+    * **Mengapa?** karena Ini adalah langkah akhir untuk memenuhi output proyek. AI diminta untuk bertindak sebagai "konsultan" dan menghasilkan tiga rekomendasi yang konkret dan bisa ditindaklanjuti (*actionable*) untuk tim manajemen strategis Bank Dunia.
       
 ---
 
