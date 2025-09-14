@@ -48,3 +48,9 @@ Dalam proyek ini, model AI Generatif **IBM Granite** (`ibm-granite/granite-3.3-8
 3.  **Recommendation Generation**
     * **Bagaimana** AI diberi *prompt* yang merangkum semua temuan utama dari analisis (skor model yang tinggi dan konsentrasi dana pada 'Client Engagement').
     * **Mengapa** Ini adalah langkah akhir untuk memenuhi output proyek. AI diminta untuk bertindak sebagai "konsultan" dan menghasilkan tiga rekomendasi yang konkret dan bisa ditindaklanjuti (*actionable*) untuk tim manajemen strategis Bank Dunia.
+      
+---
+
+## Google Colab
+ **link:** [Capstone Project IBM SKillsBuild](https://colab.research.google.com/drive/1UeUdKurtd0LP-TEeHiISS86n23DIaAGM?usp=sharing)
+
